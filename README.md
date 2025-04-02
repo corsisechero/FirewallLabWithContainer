@@ -1,7 +1,5 @@
 # FirewallLabWithContainer
 
-Ecco la documentazione in formato Markdown (.MD) che spiega la configurazione del tuo ambiente Docker con firewall, client e server web, insieme alle istruzioni per bloccare e sbloccare il ping tra i container.
-
 # Docker Network Setup e Configurazione Firewall
 
 ## Versione del Docker Compose
